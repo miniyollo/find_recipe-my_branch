@@ -1,0 +1,39 @@
+
+[
+    {
+    "title": "Biryani",
+    "description": "Chicken Biryani",
+    "ingredients": [
+    {
+    "title": "basmati rice",
+    "quantity": "1 cup"
+    },
+    {
+    "title": "mint leaves",
+    "quantity": "1/2 teaspoon"
+    },
+    {
+    "title": "salt",
+    "quantity": "as required"
+    }
+    ]
+    },
+    {
+    "title": "Chicken Tiika",
+    "description": "Chicken Biryani",
+    "ingredients": [
+    {
+    "title": "basmati rice",
+    "quantity": "1 cup"
+    },
+    {
+    "title": "mint leaves",
+    "quantity": "1/2 teaspoon"
+    },
+    {
+   "title": "salt",
+    "quantity": "as required"
+    }
+    ]
+    }
+]
